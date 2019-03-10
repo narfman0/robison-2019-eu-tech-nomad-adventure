@@ -1,0 +1,13 @@
+title: Robison 2019 EU Tech Nomad Adventure
+email: narfman0@gmail.com
+description: >-
+  Elaboration and pictures for the Robison EU tech nomad adventure
+baseurl: ""
+url: ""
+twitter_username: narfman0
+github_username: narfman0
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
