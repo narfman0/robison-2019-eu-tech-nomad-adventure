@@ -12,11 +12,12 @@ and let it scream!
 
 ![Hafnarfjordur airport commute]({{ site.baseurl }}/assets/iceland/hafnarfjordur-reykjavik-mountain-1.jpg)
 
-We witnessed constant reminders that vikings tread here not long ago:
+We witnessed constant reminders that vikings tread here not long ago, casual legendary artifacts
+are undeoubtedly behind these (likely <50 year) old ancient doors:
 
 ![Hafnarfjordur legendary door]({{ site.baseurl }}/assets/iceland/hafnarfjordur-walk-legendary-5.jpg)
 
-And note their effort to maintain control over their wild land:
+Maintaining control over their wild land:
 
 ![Hafnarfjordur sunset lake]({{ site.baseurl }}/assets/iceland/hafnarfjordur-walk-sunset-lake.jpg)
 
@@ -24,7 +25,8 @@ Which fed into:
 
 ![Hafnarfjordur water]({{ site.baseurl }}/assets/iceland/hafnarfjordur-water.jpg)
 
-Reykjavik day, we partook in "if you are feeling depresso, have an espresso!"
+Reykjavik day, the mysterious allure of a sign drew us in. They had a riddle etched in timeless
+text, suggesting intrigue inside: "if you are feeling depresso, have an espresso!"
 
 ![Downtown Reykjavik]({{ site.baseurl }}/assets/iceland/hafnarfjordur-reykjavik-depresso.jpg) 
 
@@ -32,7 +34,8 @@ Middle daughter showing all emotions on the 11th in downtown Reykjavik:
 
 ![Downtown Reykjavik]({{ site.baseurl }}/assets/iceland/hafnarfjordur-reykjavik-walking.jpg)
 
-Followed by hotdog + fish and chips extravaganza some 300 meters away:
+Evidently inevitable and typical hotdog + fish and chips extravaganza,
+some 200 meters away from our airbnb:
 
 ![Hotdogs]({{ site.baseurl }}/assets/iceland/hafnarfjordur-hotdogs-smile.jpg)
 
