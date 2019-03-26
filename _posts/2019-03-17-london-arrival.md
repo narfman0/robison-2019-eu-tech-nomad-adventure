@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "London Arrival"
+title:  "London - Arrival"
 date:   2019-03-17 15:30:00 +0000
 categories: london arrival
 ---

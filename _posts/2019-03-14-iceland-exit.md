@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Iceland Exit"
+title:  "Iceland - Exit"
 date:   2019-03-14 23:30:00 +0000
 categories: iceland exit
 ---

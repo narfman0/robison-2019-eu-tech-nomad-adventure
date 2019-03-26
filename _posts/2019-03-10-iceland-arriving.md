@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Arriving in Iceland"
+title:  "Iceland - Arriving"
 date:   2019-03-10 23:03:19 +0000
 categories: iceland
 ---
