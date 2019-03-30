@@ -2,7 +2,7 @@
 layout: post
 title:  "London - Brexit Protest"
 date:   2019-03-24 15:30:00 +0000
-categories: london natural-history museum
+categories: london brexit protest
 ---
 
 We started the day wanting to see big ben, westminster cathedral, and some history-y things, but
