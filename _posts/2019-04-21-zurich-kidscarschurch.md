@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Switzerland - Zurich Kids, Cars, Chuch"
-date:   2019-04-20 15:30:00 +0000
-categories: switzerland zurich ferry
+date:   2019-04-21 15:30:00 +0000
+categories: switzerland zurich kidscarschurch
 ---
 
 Zurich - we had some fun kid time, where we saw some nice cars, and saw
