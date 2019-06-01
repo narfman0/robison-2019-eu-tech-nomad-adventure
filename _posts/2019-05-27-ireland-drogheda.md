@@ -20,9 +20,3 @@ Drogheda Ireland - some churches (one had a relic! a martyrs head), a tower, som
 ![drogheda-6]({{ site.baseurl }}/assets/ireland/drogheda/drogheda-6.jpg)
 
 ![drogheda-7]({{ site.baseurl }}/assets/ireland/drogheda/drogheda-7.jpg)
-
-![drogheda-8]({{ site.baseurl }}/assets/ireland/drogheda/drogheda-8.jpg)
-
-![drogheda-9]({{ site.baseurl }}/assets/ireland/drogheda/drogheda-9.jpg)
-
-![drogheda-10]({{ site.baseurl }}/assets/ireland/drogheda/drogheda-10.jpg)
